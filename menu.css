@@ -1,0 +1,42 @@
+.navbar {
+    color: black;
+    background-color: rgb(252,188,65);
+  }
+  
+.nav-link{
+    color:black!important;
+
+}
+a{
+    color:blue !important;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.brandname{
+    color: black;
+  }
+  footer {
+      text-align: center;
+      background-color: #e23d13;
+    }
+    .fab {
+      color: white;
+      padding: 10px;
+    }
+    
+    .footer-copyright {
+      background-color: black;
+      color: white;
+    }
+    .link {
+      text-decoration: none;
+      color: black;
+    }
+    .menu{
+        width: 100%;
+        height: 180vh;         
+    }
+
+   .content{
+       background-color: #1E405B;
+   }
